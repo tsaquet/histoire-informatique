@@ -1,5 +1,7 @@
 # Une histoire de l'informatique
 
+![CI](https://github.com/tsaquet/histoire-informatique/actions/workflows/ci.yml/badge.svg)
+
 Site statique retraçant l'histoire de l'informatique, réalisé en équipe dans le module « Versionnage et intégration continue ».
 
 ## Présentation
